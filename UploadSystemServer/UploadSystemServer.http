@@ -1,0 +1,6 @@
+@UploadSystemServer_HostAddress = http://localhost:5262
+
+GET {{UploadSystemServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
